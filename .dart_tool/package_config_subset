@@ -1,3 +1,11 @@
+camera_platform_interface
+3.1
+file:///home/sumit/.pub-cache/git/camera_platform_interface-bf49ba6e2e6162f8995de966f635e5d52ede7348/
+file:///home/sumit/.pub-cache/git/camera_platform_interface-bf49ba6e2e6162f8995de966f635e5d52ede7348/lib/
+plugin_platform_interface
+2.19
+file:///home/sumit/.pub-cache/git/plugin_platform_interface-1d6e1c5fae93958d50ce0595ef687d8195088d21/
+file:///home/sumit/.pub-cache/git/plugin_platform_interface-1d6e1c5fae93958d50ce0595ef687d8195088d21/lib/
 async
 2.18
 file:///home/sumit/.pub-cache/hosted/pub.dev/async-2.11.0/
@@ -6,10 +14,6 @@ boolean_selector
 2.17
 file:///home/sumit/.pub-cache/hosted/pub.dev/boolean_selector-2.1.1/
 file:///home/sumit/.pub-cache/hosted/pub.dev/boolean_selector-2.1.1/lib/
-camera_platform_interface
-2.19
-file:///home/sumit/.pub-cache/hosted/pub.dev/camera_platform_interface-2.5.2/
-file:///home/sumit/.pub-cache/hosted/pub.dev/camera_platform_interface-2.5.2/lib/
 characters
 2.12
 file:///home/sumit/.pub-cache/hosted/pub.dev/characters-1.3.0/
@@ -50,10 +54,6 @@ path
 2.12
 file:///home/sumit/.pub-cache/hosted/pub.dev/path-1.8.3/
 file:///home/sumit/.pub-cache/hosted/pub.dev/path-1.8.3/lib/
-plugin_platform_interface
-2.19
-file:///home/sumit/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.6/
-file:///home/sumit/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.6/lib/
 source_span
 2.18
 file:///home/sumit/.pub-cache/hosted/pub.dev/source_span-1.10.0/
@@ -91,7 +91,7 @@ web
 file:///home/sumit/.pub-cache/hosted/pub.dev/web-0.1.4-beta/
 file:///home/sumit/.pub-cache/hosted/pub.dev/web-0.1.4-beta/lib/
 camera_avfoundation
-2.19
+3.1
 file:///home/sumit/StudioProjects/packages/packages/camera/camera_avfoundation/
 file:///home/sumit/StudioProjects/packages/packages/camera/camera_avfoundation/lib/
 sky_engine
