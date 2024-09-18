@@ -1,12 +1,12 @@
 # This is a generated file; do not edit or check into version control.
 camera_avfoundation=/home/sumit/StudioProjects/packages/packages/camera/camera_avfoundation/
 integration_test=/home/sumit/softwares/flutter/packages/integration_test/
-path_provider=/home/sumit/.pub-cache/git/path_provider-9f3f2100cf42f0c460ff5dfda8f2dae9ddb728ee/
-path_provider_android=/home/sumit/.pub-cache/git/path_provider_android-8c8001a14283d8937b7de7d6a3fe33d339223e36/
-path_provider_foundation=/home/sumit/.pub-cache/git/path_provider_foundation-63840279dea77c563a0daf4bda5cbdda604f86ba/
-path_provider_linux=/home/sumit/.pub-cache/git/path_provider_linux-4006480212e39589610324bf6854e6b8ced12964/
-path_provider_windows=/home/sumit/.pub-cache/git/path_provider_windows-7569e770937cc541259e8ebd8f48b8a4c3a1f84c/
-video_player=/home/sumit/.pub-cache/git/video_player-0ff371c0c5c1d5b96666d3daba221f8b17215a31/
-video_player_android=/home/sumit/.pub-cache/git/video_player_android-1bd18dcd0fdfe6a42913df6f016e69cd73d3d54b/
-video_player_avfoundation=/home/sumit/.pub-cache/git/video_player_avfoundation-d14411d15d9eb31cc1beca454b532f7a1a0c196e/
-video_player_web=/home/sumit/.pub-cache/git/video_player_web-cc07fb7a84d5ac3c1449c5f8ee19c5a720de8f34/
+path_provider=/home/sumit/.pub-cache/git/path_provider-464067f1292d84797110982aec8a5c694bf42ec2/
+path_provider_android=/home/sumit/.pub-cache/git/path_provider_android-075dfaa8879cb5226a8876ae2b4c3cd91c0da24f/
+path_provider_foundation=/home/sumit/.pub-cache/git/path_provider_foundation-0c32fae60f23a0568754137db1bab13a8f532ba9/
+path_provider_linux=/home/sumit/.pub-cache/git/path_provider_linux-150d801243a2f75e2f3b306187d0ba2e3bc03484/
+path_provider_windows=/home/sumit/.pub-cache/git/path_provider_windows-c867dc01fd2fa9479c18002192a58af6f9b8a9df/
+video_player=/home/sumit/.pub-cache/git/video_player-914bb448dd9dc099fb13916b601ba96c6736a8c0/
+video_player_android=/home/sumit/.pub-cache/git/video_player_android-ff0b4192f4a406b46adf12c9c27fb71a26d5e188/
+video_player_avfoundation=/home/sumit/.pub-cache/git/video_player_avfoundation-e59a40acfd8eb69d485712670ccf127c7b52f7fa/
+video_player_web=/home/sumit/.pub-cache/git/video_player_web-9720ea944dd4aca03098c07a3f9fb31b86b81f08/
