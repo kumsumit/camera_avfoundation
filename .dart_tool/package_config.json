@@ -87,9 +87,9 @@
     },
     {
       "name": "camera_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/git/camera_platform_interface-3ea5757d0b02a3b784f598c1309245a22ba9357f/",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/camera_platform_interface-2.8.0",
       "packageUri": "lib/",
-      "languageVersion": "3.4"
+      "languageVersion": "3.2"
     },
     {
       "name": "characters",
@@ -279,9 +279,9 @@
     },
     {
       "name": "mockito",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/mockito-5.4.4",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/mockito-5.4.5",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.6"
     },
     {
       "name": "package_config",
@@ -303,9 +303,9 @@
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/git/plugin_platform_interface-5b87c0b21d7dfa69ff1b00993bc6f895ab5b0de5/",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.0"
     },
     {
       "name": "pool",
@@ -345,9 +345,9 @@
     },
     {
       "name": "source_gen",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/source_gen-1.5.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/source_gen-2.0.0",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.6"
     },
     {
       "name": "source_span",
@@ -452,7 +452,7 @@
       "languageVersion": "3.4"
     }
   ],
-  "generated": "2024-12-18T19:22:23.239012Z",
+  "generated": "2024-12-18T21:13:14.584244Z",
   "generator": "pub",
   "generatorVersion": "3.6.0",
   "flutterRoot": "file:///home/sumit/softwares/flutter",
