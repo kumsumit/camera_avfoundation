@@ -674,9 +674,6 @@ void main() {
       verify(mockApi.resumePreview());
     });
 
-    test('Should report support for image streaming', () async {
-      expect(camera.supportsImageStreaming(), true);
-    });
 
     test('Should start streaming', () async {
       final StreamSubscription<CameraImageData> subscription = camera

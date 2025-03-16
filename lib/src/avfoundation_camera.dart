@@ -237,8 +237,6 @@ class AVFoundationCamera extends CameraPlatform {
     await _hostApi.resumeVideoRecording();
   }
 
-  bool supportsImageStreaming() => true;
-
   @override
   Stream<CameraImageData> onStreamedFrameAvailable(int cameraId,
       {CameraImageStreamOptions? options}) {
