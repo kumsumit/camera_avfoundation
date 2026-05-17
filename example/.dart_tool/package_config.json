@@ -71,13 +71,13 @@
       "name": "camera_avfoundation",
       "rootUri": "../../",
       "packageUri": "lib/",
-      "languageVersion": "3.9"
+      "languageVersion": "3.11"
     },
     {
       "name": "camera_platform_interface",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/camera_platform_interface-2.13.0",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/camera_platform_interface-a4b2997826b367c9a94790a90f7a4b1dde236793/",
       "packageUri": "lib/",
-      "languageVersion": "3.9"
+      "languageVersion": "3.11"
     },
     {
       "name": "characters",
@@ -243,15 +243,15 @@
     },
     {
       "name": "jni",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/jni-1.0.0",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/jni-7f02ac81334c7ee959276d051ef722a3bb4263db/",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.11"
     },
     {
       "name": "jni_flutter",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/jni_flutter-1.0.1",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/jni_flutter-cf0200754dd6e55887131e4574a1135eb5ebc9b7/",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.11"
     },
     {
       "name": "json_annotation",
@@ -333,39 +333,39 @@
     },
     {
       "name": "path_provider",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/path_provider-2.1.5",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/path_provider-d3faba3247861212df44e5fab95df42bbd0183f3/",
       "packageUri": "lib/",
-      "languageVersion": "3.4"
+      "languageVersion": "3.11"
     },
     {
       "name": "path_provider_android",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/path_provider_android-2.3.1",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/path_provider_android-aaa2f06c118301b97329307430334c0d0011b773/",
       "packageUri": "lib/",
-      "languageVersion": "3.9"
+      "languageVersion": "3.11"
     },
     {
       "name": "path_provider_foundation",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/path_provider_foundation-2.6.0",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/path_provider_foundation-3d32018c8b11f05485058de95b83822653e2a7b3/",
       "packageUri": "lib/",
-      "languageVersion": "3.10"
+      "languageVersion": "3.11"
     },
     {
       "name": "path_provider_linux",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/path_provider_linux-9b0e2a86bf1983cb5c82a2a2b29426f16be49546/",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.11"
     },
     {
       "name": "path_provider_platform_interface",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/path_provider_platform_interface-2.1.2",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/path_provider_platform_interface-6f8cac470cb4572a24fe5d5007833a07abe13bcf/",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.11"
     },
     {
       "name": "path_provider_windows",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/path_provider_windows-8473a1f5d530c008dce98020b1658bfc49358730/",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.11"
     },
     {
       "name": "platform",
@@ -375,9 +375,9 @@
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/plugin_platform_interface-f19d3faf8d449aa73be0c3c71bd7e67fc0fb28bf/",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.8"
     },
     {
       "name": "pool",
@@ -489,33 +489,33 @@
     },
     {
       "name": "video_player",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/video_player-2.11.1",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/video_player-6c973f286e5dbb6d8d2350c08bcc310f89bd7887/",
       "packageUri": "lib/",
-      "languageVersion": "3.10"
+      "languageVersion": "3.4"
     },
     {
       "name": "video_player_android",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/video_player_android-2.9.5",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/video_player_android-5ed3f30af1a6c1a32883c0e8755c6d1e1fb5fbf2/",
       "packageUri": "lib/",
-      "languageVersion": "3.9"
+      "languageVersion": "3.5"
     },
     {
       "name": "video_player_avfoundation",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/video_player_avfoundation-2.9.6",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/video_player_avfoundation-315b7b863f5c214ee2ff44147ef8f141e99fe6d3/",
       "packageUri": "lib/",
-      "languageVersion": "3.10"
+      "languageVersion": "3.4"
     },
     {
       "name": "video_player_platform_interface",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/video_player_platform_interface-6.7.0",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/video_player_platform_interface-19eee9ffa4c24038c4485a467d2ef891e6c2f039/",
       "packageUri": "lib/",
-      "languageVersion": "3.9"
+      "languageVersion": "3.4"
     },
     {
       "name": "video_player_web",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/video_player_web-2.4.0",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/video_player_web-104c5b9345dc121563437d45ca43f320dbe01386/",
       "packageUri": "lib/",
-      "languageVersion": "3.6"
+      "languageVersion": "3.4"
     },
     {
       "name": "vm_service",
@@ -569,7 +569,7 @@
       "name": "camera_example",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.9"
+      "languageVersion": "3.11"
     }
   ],
   "generator": "pub",
