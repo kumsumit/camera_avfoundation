@@ -1,16 +1,32 @@
-// Copyright 2013 The Flutter Authors. All rights reserved.
+// Copyright 2013 The Flutter Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-final class MockFLTCameraPermissionManager: FLTCameraPermissionManager {
-  var requestCameraPermissionStub: ((((FlutterError?) -> Void)?) -> Void)?
-  var requestAudioPermissionStub: ((((FlutterError?) -> Void)?) -> Void)?
+import Flutter
 
-  override func requestCameraPermission(completionHandler: ((FlutterError?) -> Void)?) {
-    requestCameraPermissionStub?(completionHandler)
+@testable import camera_avfoundation
+
+final class MockCameraPermissionManager: CameraPermissionManager {
+  var requestCameraPermissionStub: ((@escaping CameraPermissionRequestCompletionHandler) -> Void)?
+  var requestAudioPermissionStub: ((@escaping CameraPermissionRequestCompletionHandler) -> Void)?
+
+  init() {
+    super.init(permissionService: DefaultPermissionService())
   }
 
-  override func requestAudioPermission(completionHandler: ((FlutterError?) -> Void)?) {
-    requestAudioPermissionStub?(completionHandler)
+  override func requestCameraPermission(completionHandler: @escaping (PigeonError?) -> Void) {
+    if let stub = requestCameraPermissionStub {
+      stub(completionHandler)
+    } else {
+      super.requestCameraPermission(completionHandler: completionHandler)
+    }
+  }
+
+  override func requestAudioPermission(completionHandler: @escaping (PigeonError?) -> Void) {
+    if let stub = requestAudioPermissionStub {
+      stub(completionHandler)
+    } else {
+      super.requestAudioPermission(completionHandler: completionHandler)
+    }
   }
 }

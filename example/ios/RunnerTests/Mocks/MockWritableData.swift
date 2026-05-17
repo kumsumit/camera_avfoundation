@@ -1,15 +1,19 @@
-// Copyright 2013 The Flutter Authors. All rights reserved.
+// Copyright 2013 The Flutter Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-/// A mock implementation of `FLTWritableData` that allows injecting a custom implementation
-/// for writing to a file.
-final class MockWritableData: NSObject, FLTWritableData {
-  var writeToFileStub: ((String, NSData.WritingOptions) throws -> Void)?
+import Foundation
 
-  func write(toFile path: String, options writeOptionsMask: NSData.WritingOptions) throws {
+@testable import camera_avfoundation
+
+/// A mock implementation of `WritableData` that allows injecting a custom implementation
+/// for writing to a file.
+final class MockWritableData: WritableData {
+  var writeToFileStub: ((String, Data.WritingOptions) throws -> Void)?
+
+  func writeToPath(_ path: String, options: Data.WritingOptions) throws {
     if let stub = self.writeToFileStub {
-      try stub(path, writeOptionsMask)
+      try stub(path, options)
     }
   }
 }
