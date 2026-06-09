@@ -3,15 +3,15 @@
   "packages": [
     {
       "name": "_fe_analyzer_shared",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-93.0.0",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-101.0.0",
       "packageUri": "lib/",
-      "languageVersion": "3.9"
+      "languageVersion": "3.11"
     },
     {
       "name": "analyzer",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/analyzer-10.0.1",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/analyzer-13.1.0",
       "packageUri": "lib/",
-      "languageVersion": "3.9"
+      "languageVersion": "3.11"
     },
     {
       "name": "args",
@@ -123,7 +123,7 @@
     },
     {
       "name": "dart_style",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/dart_style-3.1.7",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/dart_style-3.1.9",
       "packageUri": "lib/",
       "languageVersion": "3.10"
     },
@@ -149,13 +149,13 @@
       "name": "flutter",
       "rootUri": "file:///Users/amitsharan/development/flutter/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "3.9"
+      "languageVersion": "3.12"
     },
     {
       "name": "flutter_test",
       "rootUri": "file:///Users/amitsharan/development/flutter/packages/flutter_test",
       "packageUri": "lib/",
-      "languageVersion": "3.9"
+      "languageVersion": "3.12"
     },
     {
       "name": "glob",
@@ -219,9 +219,9 @@
     },
     {
       "name": "matcher",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/matcher-0.12.19",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/matcher-0.12.20",
       "packageUri": "lib/",
-      "languageVersion": "3.7"
+      "languageVersion": "3.10"
     },
     {
       "name": "material_color_utilities",
@@ -231,7 +231,7 @@
     },
     {
       "name": "meta",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/meta-1.17.0",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/meta-1.18.3",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
@@ -243,7 +243,7 @@
     },
     {
       "name": "mockito",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/mockito-5.6.4",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/mockito-5.7.0",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
@@ -261,9 +261,9 @@
     },
     {
       "name": "pigeon",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/pigeon-26.3.4",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/pigeon-f58b2fd4d44f7364e5085950c04af1eadc5f4640/",
       "packageUri": "lib/",
-      "languageVersion": "3.9"
+      "languageVersion": "3.12"
     },
     {
       "name": "plugin_platform_interface",
@@ -305,7 +305,7 @@
       "name": "sky_engine",
       "rootUri": "file:///Users/amitsharan/development/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
-      "languageVersion": "3.9"
+      "languageVersion": "3.10"
     },
     {
       "name": "source_gen",
@@ -351,9 +351,9 @@
     },
     {
       "name": "test_api",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/test_api-0.7.10",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/test_api-0.7.12",
       "packageUri": "lib/",
-      "languageVersion": "3.7"
+      "languageVersion": "3.10"
     },
     {
       "name": "typed_data",
@@ -363,9 +363,9 @@
     },
     {
       "name": "vector_math",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/vector_math-2.2.0",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/vector_math-2.4.0",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.10"
     },
     {
       "name": "vm_service",
@@ -407,12 +407,12 @@
       "name": "camera_avfoundation",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.11"
+      "languageVersion": "3.12"
     }
   ],
   "generator": "pub",
-  "generatorVersion": "3.11.5",
+  "generatorVersion": "3.12.1",
   "flutterRoot": "file:///Users/amitsharan/development/flutter",
-  "flutterVersion": "3.41.9",
+  "flutterVersion": "3.45.0-1.0.pre-45",
   "pubCache": "file:///Users/amitsharan/.pub-cache"
 }
